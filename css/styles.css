@@ -14,7 +14,7 @@ body{
     color: white;
   }
   .content {
-    color: #3e8fde;
+    color: #fafafa;
   }
   
   #subtitle {
@@ -44,6 +44,25 @@ body{
   }
   
   #food-info {
+    color: #3e8fde;
     padding-bottom: 15px;
   }
-  
+  #place-order{
+    justify-content: center;
+    display: flex;
+    /* background-color: chartreuse; */
+  }
+  .container{
+  display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    /* margin: auto; */
+    font-size: 20px;
+    /* flex: 2;
+    width: 100%;
+    padding: 20px; */
+  }
+/* .button{
+    background-color: orange;
+} */
