@@ -4,22 +4,29 @@ body{
   
   .heading {
     background-color: #333333;
-    margin-bottom: 20px;
-    padding: 5px 0px 5px 15px;
+    margin-bottom: 10px;
+    padding: 20px;
+  
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
   }
   
   .title {
     background-color: #333333;
     padding: 5px;
     color: white;
+
   }
   .content {
     color: #fafafa;
+    margin-left: 100px;
+
   }
   
   #subtitle {
     color: white;
-    margin-left: 55px;
+    margin-left: 200px;
   }
   
   #showing {
@@ -86,4 +93,18 @@ justify-content: space-around;
   /* max-width: 100%; */
   height: 50vh;
 
+}
+#place-order{
+  background-color: orangered;
+}
+#start{
+  background-color:#ed661f;
+  color: #fafafa;
+  padding: 20px ;
+  border-radius: 5x;
+  border: none;
+  margin-left: 80px;
+}
+.logins{
+  margin-left: 1500px;
 }

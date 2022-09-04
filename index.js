@@ -74,3 +74,5 @@ function clickedFoodDisplay(id) {
 btn.addEventListener("click",() =>{
   alert("successfully placed an order")
 })
+
+
