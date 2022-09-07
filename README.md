@@ -18,10 +18,10 @@ By Lynette Ronnoh
 This project is created using HTML, CSS and Javascript.
 The purpose of this project is to create a web page that reflects a single page application that enables users to order any food anywhere and anytime from a vendor
 
-<!-- ## Technology Used
+## Technology Used
 HTNL - which was used to build the structure of the pages.
 
-CSS - which was used to style the pages incuding the left aside navigation bar -->
+CSS - which was used to style the pages incuding the left aside navigation bar
 ## Setup
 
 * Fork this repository on Github
