@@ -2,13 +2,13 @@
 
 By Lynette Ronnoh
 
-<!-- # Table of Content
+# Table of Content
 
 * Description
 * Technology Used
 * Reference
 * Licence
-* Authors Info -->
+* Authors Info
 
 ## Requirements
 * Either a computer,phone,tablet or an Ipad
