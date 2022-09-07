@@ -6,19 +6,22 @@ The purpose of this project is to create a web page that reflects a single page 
 The project uses external CSS and Javascript.
 ## Setup
 
-Run this command to get the backend started:
+* Fork this repository on Github
+* Clone the repository to your local folder
+* Open the repository on your code editor
+* Open your terminal and Run this command to get the backend started:
 
 ```console
 $ json-server --watch db.json
 ```
 
-Test your server by visiting this route in the browser:
+* Test your server by visiting this route in the browser:
 
 [http://localhost:3000/foodies](http://localhost:3000/foodies)
 
-Then, open the `index.html` file on your browser to run the application.
+* Then, open the `index.html` file on your browser to run the application.
 
-To load  this project, click on the live link on github. 
+* To load  this project, click on the live link on github. 
 (https://rlynette.github.io/Dailys-Delicacies/)
 (https://github.com/Rlynette/Dailys-Delicacies)
 
