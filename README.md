@@ -1,9 +1,27 @@
 # Dailys-Delicacies
 
+By Lynette Ronnoh
+
+<!-- # Table of Content
+
+* Description
+* Technology Used
+* Reference
+* Licence
+* Authors Info -->
+
+## Requirements
+* Either a computer,phone,tablet or an Ipad
+* An access to the Internet
+
 ## Project Description
 This project is created using HTML, CSS and Javascript.
 The purpose of this project is to create a web page that reflects a single page application that enables users to order any food anywhere and anytime from a vendor
-The project uses external CSS and Javascript.
+
+<!-- ## Technology Used
+HTNL - which was used to build the structure of the pages.
+
+CSS - which was used to style the pages incuding the left aside navigation bar -->
 ## Setup
 
 * Fork this repository on Github
