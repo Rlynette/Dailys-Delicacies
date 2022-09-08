@@ -6,7 +6,6 @@ By Lynette Ronnoh
 
 * Description
 * Technology Used
-* Reference
 * Licence
 * Authors Info
 
@@ -48,9 +47,7 @@ $ json-server --watch db.json
 
 The landing page contains a visual representation of single page application that has one html file therefore no redirects when browsing through the page.
 
-A sign in button that when clicked prompts the user to feed in their credentials in order to access the list of food in the page.
-
-The get-started button is active after the user feeds in their details.
+A sign-in and get-started buttons are inactive so no redirects
 
 There is a button, make-order button that when clicked submits the details fed in and places an order for the customer as per their preferences.
 
